@@ -32,7 +32,7 @@
     "hubot": ">= 2.0.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "codecov": "^3.2.0",
     "coffee-coverage": "^2.0.0",
     "coffeescript": "^1.12.7",
