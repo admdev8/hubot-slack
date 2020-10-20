@@ -34,7 +34,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "codecov": "^3.2.0",
-    "coffee-coverage": "^2.0.0",
+    "coffee-coverage": "^3.0.1",
     "coffeescript": "^1.12.7",
     "hubot": ">= 2.19.0",
     "istanbul": "^0.4.3",
